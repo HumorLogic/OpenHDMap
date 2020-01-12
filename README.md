@@ -12,7 +12,7 @@ Let ’s start with how to make an HD map. The HD map making process can be divi
 3. Map labeling
 4. Map saving  
 Next we introduce these four processes respectively.  
-![HDmap_pipeline](doc/img/hdmap_pipeline.jpg)  
+![HDmap_pipeline](docs/img/hdmap_pipeline.jpg)  
 
 #### 1.Map collection
 First, we use a map collection car equipped with lidar, camera, GPS and IMU to collect maps. The data currently used is an open source dataset. We plan to provide recommended hardware and toy cars later.  
